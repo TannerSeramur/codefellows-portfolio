@@ -1,7 +1,7 @@
 /* banner pic */
 #main > section.one {
     background-color: #81918E;
-    background-image: url("../../images/Confetti-Doodles.svg");
+    background-image: url("../../images/wallpaper.jpg");
 }
 
 
@@ -67,4 +67,20 @@ strong{
 }
 #nav ul li a.active span:before {
     color: #339999;
+}
+
+#profilePic{
+    border-radius: 50%;
+    background-color: none;
+}
+i{
+    padding: 0px 10px;
+    margin: 20px 40px;
+}
+
+#aboutme-pic{
+    border-radius: 50%;
+    width: 40%;
+    height: 40%;
+    margin: 0 auto;
 }

@@ -16,7 +16,7 @@
 			margin-bottom: 0;
 		}
 
-		.row.aln-left {
+		.row.aln-lef#top
 			justify-content: flex-start;
 		}
 
@@ -270,6 +270,8 @@
 		.image img {
 			display: block;
 			width: 100%;
+			height: 110%;
+			
 		}
 
 		.image.avatar48 {
