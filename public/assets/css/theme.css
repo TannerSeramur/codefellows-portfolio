@@ -84,3 +84,18 @@ i{
     height: 40%;
     margin: 0 auto;
 }
+.jquery, .postgresql{
+    opacity: 0.5;
+    width: 3.8em;
+    height: 3.8em;
+    padding-top: 10px;
+}
+
+.blur{
+    color:transparent;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+#enter{
+    border: none;
+    font-size: 1em;
+}

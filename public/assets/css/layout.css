@@ -731,5 +731,28 @@
 				background-color: #e8edec;
 			}
 
+.modal{
+	/* background-color:red; */
+	background-image: url(../../images/space.jpg);
+	background-color: black;
+	background-repeat: none;
+	-webkit-background-size: cover;
+	background-size:cover;
+	/* opacity: .5; */
+	width: 100%;
+	height: 100%;
+	position: fixed;
+
+	z-index: 999;
+}
 
 
+
+.overlay{
+	background-color: black;
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	z-index: 500;
+	opacity: .2;
+}
